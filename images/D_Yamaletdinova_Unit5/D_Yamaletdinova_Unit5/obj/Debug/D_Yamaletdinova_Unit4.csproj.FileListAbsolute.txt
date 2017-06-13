@@ -1,0 +1,18 @@
+C:\School\DMACC\Spring 2016\C#\Unit 4\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.dll.config
+C:\School\DMACC\Spring 2016\C#\Unit 4\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.dll
+C:\School\DMACC\Spring 2016\C#\Unit 4\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.pdb
+C:\School\DMACC\Spring 2016\C#\Unit 4\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.csprojResolveAssemblyReference.cache
+C:\School\DMACC\Spring 2016\C#\Unit 4\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.dll
+C:\School\DMACC\Spring 2016\C#\Unit 4\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.pdb
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.dll.config
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.dll
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.pdb
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.dll
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.pdb
+C:\School\DMACC\Spring 2016\C#\NEW UNIT 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.dll.config
+C:\School\DMACC\Spring 2016\C#\NEW UNIT 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.dll
+C:\School\DMACC\Spring 2016\C#\NEW UNIT 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\bin\D_Yamaletdinova_Unit4.pdb
+C:\School\DMACC\Spring 2016\C#\NEW UNIT 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.dll
+C:\School\DMACC\Spring 2016\C#\NEW UNIT 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.pdb
+C:\School\DMACC\Spring 2016\C#\NEW UNIT 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.csprojResolveAssemblyReference.cache
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit4\obj\Debug\D_Yamaletdinova_Unit4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,116 @@
+[17-Nov-2015 17:00:31 UTC] PHP Fatal error:  Call to undefined method Email::setName() in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 6
+[17-Nov-2015 17:00:55 UTC] PHP Fatal error:  Call to undefined method Email::setEmail() in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 18
+[17-Nov-2015 17:03:30 UTC] PHP Fatal error:  Call to undefined method Email::getEmail() in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 193
+[17-Nov-2015 17:16:54 UTC] PHP Fatal error:  Call to a member function setPhone() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 14
+[17-Nov-2015 17:17:19 UTC] PHP Fatal error:  Call to a member function setPhone() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 14
+[17-Nov-2015 17:17:24 UTC] PHP Fatal error:  Call to a member function setPhone() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 14
+[17-Nov-2015 17:17:35 UTC] PHP Fatal error:  Call to a member function setPhone() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 14
+[17-Nov-2015 17:17:38 UTC] PHP Fatal error:  Call to a member function setPhone() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 14
+[17-Nov-2015 17:17:55 UTC] PHP Fatal error:  Call to a member function setPhone() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 14
+[17-Nov-2015 19:34:20 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'wdv341'@'localhost' to database 'wdv341_contacts' in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 19:36:37 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'wdv341'@'localhost' to database 'wdv341_contacts' in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 19:36:42 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'wdv341'@'localhost' to database 'wdv341_contacts' in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: firstName in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 13
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: lastName in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 14
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: email in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 15
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: phone in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 16
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: firstName in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 13
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: lastName in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 14
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: email in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 15
+[17-Nov-2015 19:40:40 UTC] PHP Notice:  Undefined index: phone in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 16
+[17-Nov-2015 19:40:59 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 19
+[17-Nov-2015 19:40:59 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 19:40:59 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 19:40:59 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:40:59 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:40:59 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:40:59 UTC] PHP Notice:  Undefined property: Email::$getFullName in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 201
+[17-Nov-2015 19:48:15 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 19
+[17-Nov-2015 19:48:15 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 19:48:15 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 19:48:15 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:48:15 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:48:15 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:48:36 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 19
+[17-Nov-2015 19:48:36 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 19:48:36 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 19:48:36 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:48:36 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 19:48:36 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 106
+[17-Nov-2015 20:25:06 UTC] PHP Fatal error:  include(): Cannot redeclare class email in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 3
+[17-Nov-2015 20:25:26 UTC] PHP Fatal error:  Call to a member function getRegistrationDate() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 20
+[17-Nov-2015 20:25:44 UTC] PHP Fatal error:  include(): Cannot redeclare class email in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 3
+[17-Nov-2015 20:26:06 UTC] PHP Fatal error:  Call to a member function getRegistrationDate() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 20
+[17-Nov-2015 20:26:39 UTC] PHP Fatal error:  Call to a member function getRegistrationDate() on a non-object in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 20
+[17-Nov-2015 22:47:17 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 22:47:17 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 22:47:17 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 105
+[17-Nov-2015 22:47:17 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 107
+[17-Nov-2015 22:47:17 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 107
+[17-Nov-2015 22:47:17 UTC] PHP Notice:  Array to string conversion in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 217
+[17-Nov-2015 22:50:19 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 22:50:19 UTC] PHP Fatal error:  Call to undefined method Email::setReason() in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 19
+[17-Nov-2015 22:50:28 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 22:50:28 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 115
+[17-Nov-2015 22:50:28 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 115
+[17-Nov-2015 22:50:28 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 117
+[17-Nov-2015 22:50:28 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 117
+[17-Nov-2015 22:50:28 UTC] PHP Notice:  Array to string conversion in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 219
+[17-Nov-2015 22:51:26 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 22:51:26 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 115
+[17-Nov-2015 22:51:26 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 115
+[17-Nov-2015 22:51:26 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 117
+[17-Nov-2015 22:51:26 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 117
+[17-Nov-2015 22:54:16 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 22:54:16 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 126
+[17-Nov-2015 22:54:16 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 126
+[17-Nov-2015 22:54:16 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 128
+[17-Nov-2015 22:54:16 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 128
+[17-Nov-2015 22:57:42 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 22:57:42 UTC] PHP Fatal error:  Call to undefined method Email::setContactMethod() in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 21
+[17-Nov-2015 22:58:04 UTC] PHP Notice:  Undefined index: subject in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 22:58:04 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 22:58:04 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 22:58:04 UTC] PHP Notice:  Undefined index: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 140
+[17-Nov-2015 22:58:04 UTC] PHP Notice:  Undefined index: sentFrom in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 140
+[17-Nov-2015 23:04:05 UTC] PHP Fatal error:  Call to undefined method Email::setSubject() in /home/majestiquedi/public_html/introtophp/Contact/contact.php5 on line 16
+[17-Nov-2015 23:04:29 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:04:29 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:05:51 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:05:51 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:06:42 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:06:42 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:07:56 UTC] PHP Notice:  Undefined variable: firstName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:07:56 UTC] PHP Notice:  Undefined variable: lastName in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:19:35 UTC] PHP Notice:  Undefined variable: message in /home/majestiquedi/public_html/introtophp/Contact/Email.php5 on line 138
+[17-Nov-2015 23:37:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 30
+[17-Nov-2015 23:37:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 30
+[17-Nov-2015 23:37:54 UTC] PHP Fatal error:  include(): Cannot redeclare class email in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 2
+[17-Nov-2015 23:38:20 UTC] PHP Fatal error:  include(): Cannot redeclare class email in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 2
+[17-Nov-2015 23:38:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhosttt' (0) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:40:40 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 27
+[17-Nov-2015 23:40:59 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv3411'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:41:50 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv341'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:42:21 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv3411'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:42:21 UTC] PHP Fatal error:  Call to undefined method Email::sendEmail() in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 27
+[17-Nov-2015 23:42:44 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv3411'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:43:13 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv3411'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:44:20 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv3411'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:46:50 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv3411'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[17-Nov-2015 23:47:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'wdv3411'@'localhost' (using password: YES) in /home/majestiquedi/public_html/introtophp/Contact/dbConnect.php5 on line 15
+[19-Nov-2015 03:25:18 UTC] PHP Fatal error:  Call to undefined function NOW() in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 15
+[19-Nov-2015 03:25:29 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 15
+[19-Nov-2015 03:26:23 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 15
+[19-Nov-2015 03:26:29 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/majestiquedi/public_html/introtophp/Contact/insertSQL.php5 on line 15
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/header.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 56
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/header.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 56
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(): Failed opening '../mainpage/header.htm' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 56
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/leftsidemenu.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 57
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/leftsidemenu.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 57
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(): Failed opening '../mainpage/leftsidemenu.htm' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 57
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/rightsidemenu.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 59
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/rightsidemenu.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 59
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(): Failed opening '../mainpage/rightsidemenu.htm' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 59
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/footer.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 162
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(../mainpage/footer.htm): failed to open stream: No such file or directory in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 162
+[28-Nov-2015 01:37:51 America/Chicago] PHP Warning:  include(): Failed opening '../mainpage/footer.htm' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/majestiquedi/public_html/wdv101/Final Project/contactus/contact2/contact2.php5 on line 162

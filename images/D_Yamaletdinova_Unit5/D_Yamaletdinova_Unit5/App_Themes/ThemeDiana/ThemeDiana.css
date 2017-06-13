@@ -1,0 +1,68 @@
+﻿h1{
+    color:navy;
+}
+h3{
+    text-indent:15px;
+    color:#1a1aff;
+}
+form{
+    /*width:550px;*/
+    /*text-align:left;*/
+    text-indent:5px;
+    font-size: 1em;
+}
+/*div determineSpace that styling the labels and the text boxes*/
+.determineSpace{
+    margin:30px;
+    font-weight:bold;
+    width: 701px;
+}
+label{
+    width:200px;
+}
+
+.requiredfield{
+    color: red;
+    font-weight:bold;
+    font-style:italic;
+    font-size:1.6em;
+}
+.fromsession{
+    padding-left: 5px;
+    color: navy;
+    font-style:italic;
+}
+#welcomemsg p{
+    text-align:left;
+    text-indent:5px;
+    color: green;
+    font-weight:bold;
+    font-size:2em;
+}
+#messageresult{
+    margin-bottom:5%;
+    font-size:2.1em;
+}
+
+#content{
+    margin-bottom:10%;
+}
+.confstyle{
+    color:navy;
+}
+
+.entry{
+    border-color:green;
+    background-color:white;
+    border-radius:9px 9px;
+    color:grey;
+    padding-left:15px;
+}
+.button {
+   /* background: url(Images/but.png) no-repeat;*/
+    cursor: pointer;
+    border-color:navy;
+    background-color:lavender;
+    font-style:italic;
+    border-radius:10px 10px;
+}

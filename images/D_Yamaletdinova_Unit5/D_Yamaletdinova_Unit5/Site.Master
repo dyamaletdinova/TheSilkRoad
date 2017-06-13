@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="D_Yamaletdinova_Unit5.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title >Royal Inns and Suites</title>
+        <link type="text/css" rel="stylesheet" href="Content/bootstrap.min.css" />
+        <link type="text/css" rel="stylesheet" href="Content/master.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="logo"><img  src="Images/logo.PNG" alt="Royal Inns and Suites" /></div><br />
+    	<div id = "wrapper">
+	    <nav>
+            <ul>
+                <li><asp:HyperLink NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Reservation</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Rooms and Suites</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Contact Us</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Your Account</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">About Us</asp:HyperLink></li>
+            </ul>
+        </nav>
+    </div>
+    <header>
+        
+        <h1 id="title">Royal Inns and Suites</h1>
+        <div  class="msg" ><h4 style="font-family: Arial, Helvetica, sans-serif; color: #CC0000; font-style: italic">
+            **Where you're always treated like royalty**</h4></div>
+        &nbsp;
+    </header>
+    <div id="sidemenu">
+        <aside>
+            <ul >
+                <li><asp:HyperLink NavigateUrl="~/Default.aspx" runat="server">Picture Gallery</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Reviews</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Map</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Nerby</asp:HyperLink></li>
+                <li><asp:HyperLink NavigateUrl="#" runat="server">Other</asp:HyperLink></li>
+            </ul>
+        </aside>
+    </div>
+         <div class="determineSpace">
+            <div id="welcomemsg">
+                <p><asp:Label ID="lblWelcome" runat ="server" ></asp:Label></p>
+                <p><asp:Label ID="lblWelcomeEmail" runat ="server" ></asp:Label></p>
+            </div>
+        </div>
+
+    <section>
+         <form class="form-horizontal" id="form" name="form" DefaultFocus="arrivalTxtBox"  runat="server">
+            <asp:ContentPlaceHolder id="formPlaceHolder" runat="server">        
+            </asp:ContentPlaceHolder> 
+        </form>
+    </section>   
+    <!-- Footer -->
+    <footer>
+        <p>&copy; Diana Yamaletdinova</p>
+    </footer>
+</body>
+</html>

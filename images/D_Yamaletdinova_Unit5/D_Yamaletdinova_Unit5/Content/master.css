@@ -1,0 +1,120 @@
+﻿* {
+    margin:0;
+    padding: 0;
+    color: #222;
+}
+#title{
+    color:navy;
+    text-align: center;
+    margin-bottom: 5%;
+    font-size:6em;
+}
+body {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 1em;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ff8080;
+    border-radius:25px;
+    background-color: #F7F5EE;
+}
+#logo{
+    margin-top:2%;
+    width: 100%;
+    text-align: center;
+    margin-bottom:5%;
+}
+aside {
+    float: right;
+    width: 15%;
+    border:2px solid black;
+    font-size:0.8em;
+}
+section {
+    width: 70%;
+    margin: 2em 2em 2em 3.6em;
+    padding-left: 1.5em;
+   /* height: 15px;*/
+}
+section h1 {
+    margin-bottom: .5em;
+    width: 720px;
+}
+footer {
+    border-top: 2px solid navy;
+    clear: both;
+    font-size: 3em;
+    text-align: center;
+    padding-top: 5%;
+    width: 100%;
+}
+footer p{
+    margin-left:10%;
+}
+#welcomemsg{
+    text-align:center;
+    margin-bottom: 1.5%;
+}
+.msg{
+   text-align:center;
+}
+h1 {
+    margin-bottom: .25em;
+}
+#wrapper { 
+    height:60px; 
+    padding:10px;
+	text-align: center;
+	border: 2px solid; 
+	border-radius: 29px; /*25 px original radius plus 2px border*/
+    margin-bottom:5%;
+    
+}
+ nav li { 
+	display: inline;
+	list-style-type: none; 
+}
+#wrapper ul {
+    list-style: none;
+    font-size:2em;
+}
+#wrapper li {
+    margin-left:1em;
+    margin-bottom: .5em;
+    padding-right:55px;
+}
+#wrapper li a {
+    color: red;
+    font-weight: bold;
+}
+.button {
+    padding: 0.25em 1.5em;
+    margin-right: 0.5em;
+}
+.validator {
+    color: red;
+    font-size: 95%;
+    margin-left: 1em;
+}
+.formstyle{
+    font-size: 2em;
+}
+#sidemenu {
+	display: block;
+	list-style-type: none; 
+    padding:1.5em;
+}
+#sidemenu ul {
+    list-style: none;
+    font-size:2em;
+}
+#sidemenu li {
+    margin-left:1em;
+    margin-bottom: .5em;
+    padding:1.5em;
+}
+#sidemenu li a {
+    color: red;
+    font-weight: bold;
+}

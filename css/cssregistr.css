@@ -1,0 +1,93 @@
+/*
+* Diana YAmaletdinova
+* css style sheet for the registration page
+*/
+#registrform { 
+  margin-bottom: 1%; 
+  padding: 0.5%; 
+  margin-left: 25%;
+  margin-right: 26%;
+  font-size: 0.9em;
+}
+
+.label{
+	width: 20%;
+	float: left;
+	text-align: right;
+  margin-right: 2%;
+  margin-top: 0.5%;
+}
+/*style legend*/
+.legend { 
+  width: 28%;
+  color: #354660; 
+}
+/*conttact method class*/
+.contactmethod{
+  width: 32%;
+  color: #354660; 
+}
+/*style gender radio btn*/
+.gender{
+  width: 15%;
+  color: #354660; 
+}
+/*stlye special offers*/
+.specialoffers{
+  width: 20%;
+  color: #354660; 
+}
+/*fieldset style*/
+fieldset { 
+	/*width: 90%;*/
+  border: thin 0.5px #354660;
+  margin: 0.1em; 
+  padding: 0.1em;
+}
+/*style radion btm*/
+.radio{
+  margin-left: 8%;
+}
+/*style the details of the input field*/
+.form_details input[type="text"], input[type="email"],input[type="password"], .form_details textarea {
+  display: inline-block;
+  /*vertical-align: middle;*/
+  padding: 8px;
+  margin-right: 10%;
+  width: 70%;
+  font-size: 1em;
+  margin: 5px 5px;/*this alligns text labels цер boxes on the same level*/
+  border: 1px solid #ccc;
+  color: #8A8888;
+  background: none;
+  -webkit-appearance: none;
+  float: left;
+  outline: none;
+  /*margin-right: -140px;*/
+}
+/*syle text area*/
+textarea{
+  height: 90px;
+}
+/*style the option dropdowmn menu*/
+.option{
+  padding: 0.4%;
+  margin-right: 10%;
+  width: 8%;
+  font-size: 1em;
+  margin: 5px 5px;/*this alligns text labels цер boxes on the same level*/
+  border: 1px solid #ccc;
+  color: #8A8888;
+  background-color: #fff5cc;
+  float: left;
+}
+/*stlye ofers check boxes*/
+.offers{
+  width: 70%;
+  display: inline;
+}
+/*stlye check boxes*/
+.checkbox{
+margin-top: 1.5%;
+margin-left: 1.6%;
+}

@@ -1,0 +1,12 @@
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit5\bin\D_Yamaletdinova_Unit5.dll.config
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit5\bin\D_Yamaletdinova_Unit5.dll
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit5\bin\D_Yamaletdinova_Unit5.pdb
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit5\obj\Debug\D_Yamaletdinova_Unit5.csprojResolveAssemblyReference.cache
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit5\obj\Debug\D_Yamaletdinova_Unit5.dll
+C:\School\DMACC\Spring 2016\C#\Unit 5\D_Yamaletdinova_Unit4\D_Yamaletdinova_Unit5\obj\Debug\D_Yamaletdinova_Unit5.pdb
+C:\School\DMACC\Spring 2016\C#\Unit 6\D_Yamaletdinova_Unit5\D_Yamaletdinova_Unit5\bin\D_Yamaletdinova_Unit5.dll.config
+C:\School\DMACC\Spring 2016\C#\Unit 6\D_Yamaletdinova_Unit5\D_Yamaletdinova_Unit5\bin\D_Yamaletdinova_Unit5.dll
+C:\School\DMACC\Spring 2016\C#\Unit 6\D_Yamaletdinova_Unit5\D_Yamaletdinova_Unit5\bin\D_Yamaletdinova_Unit5.pdb
+C:\School\DMACC\Spring 2016\C#\Unit 6\D_Yamaletdinova_Unit5\D_Yamaletdinova_Unit5\obj\Debug\D_Yamaletdinova_Unit5.csprojResolveAssemblyReference.cache
+C:\School\DMACC\Spring 2016\C#\Unit 6\D_Yamaletdinova_Unit5\D_Yamaletdinova_Unit5\obj\Debug\D_Yamaletdinova_Unit5.dll
+C:\School\DMACC\Spring 2016\C#\Unit 6\D_Yamaletdinova_Unit5\D_Yamaletdinova_Unit5\obj\Debug\D_Yamaletdinova_Unit5.pdb

@@ -1,0 +1,505 @@
+/*
+* Diana Yamaletdinova
+* Final project css style sheet
+*/
+
+/**{
+  margin: 0;
+  padding: 0;
+}*/
+
+/*style the body*/
+body {
+  background-color: #fff5cc;
+  font-size:1.3em; 
+  font-family: Arial, Helvetica, sans-serif; 
+}
+/*style all images on the website*/
+img{
+   box-shadow: 2px 3px 2px 0 #888888;  
+   border-radius: 20px;
+}
+/*style the main container*/
+#container {
+   border-width: 1px;
+   margin: 0 auto;
+}
+/*span adds some nice style to all p, h1,2,so on*/
+span {
+  color: #990000;
+  text-decoration: underline;
+}
+/*style the header*/
+header { 
+  width: 100%;
+  margin-bottom: 0.5%; 
+  text-align: center;
+}
+/*style the header's  h2,h6,image*/
+header h6{
+  text-align: right;
+  margin: 0;
+  padding-right: 8%;
+  margin-top: 1%; 
+}
+header h1{
+  position: absolute; 
+  margin-top: 10.0%;
+   top: 0; 
+   left: 0; 
+   width: 100%; 
+   font-family: Brush Script MT; 
+   font-size: 2.7em;
+   color: #cc0000;
+}
+header img {
+  width: 100%;
+  box-shadow: 15px 15px 5px 0 #888888;  
+  border-radius: 27px;
+  overflow:hidden;
+  opacity: 0.7;
+  filter: alpha(opacity = 40); /* For IE8 and earlier */
+}
+/*end header style*/
+
+/*start style the nav bar*/
+#wrapper {
+  margin-bottom: 70px; 
+  text-align: center;
+  border: 2px solid; 
+  border-radius: 29px;
+  box-shadow: 15px 15px 5px 0 #888888;  
+}
+nav li { 
+  display: inline;
+  list-style-type: none; 
+  padding-right: 2%;
+}
+nav ul li a { 
+	padding: 0.5%; 
+	color: #ffebcc; 
+	text-decoration: none; 
+}
+nav ul li a:hover { 
+	background: #ffebcc; 
+	border-radius: 10px; 
+}
+/*end style the nav bar*/
+
+/*Start style side bar on the left*/
+.leftside {
+  padding-right: 5%;
+  padding-left: 0;
+}
+.leftside p span {
+  color: #999;
+}
+#infoleft {
+  height: relative;
+  width: 20%;
+  margin-top: 2%;
+  padding: 1em;
+  float: left;
+  margin-bottom: 10%;
+}
+/*style li in the navbar*/
+#infoleft li{
+  display: block;
+  text-decoration: none;
+  padding: 3%;
+  padding-left: 5%;
+  background-color: #ffebcc;
+  border-bottom: solid 1px #ffb84d;
+  border-right: solid 1px #ffb84d;
+  border-radius: 15px; 
+  box-shadow: 11px 11px 4px 0 #888888;  
+  color:#b35900;
+  font-size: 0.95em;
+}
+/*stle links*/
+#infoleft a{
+  text-decoration: none;
+}
+/*style h3,h4,img*/
+#infoleft h3 { 
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 0.3em;
+  /*text-transform: uppercase;*/
+}
+#infoleft h4{
+  text-align: center;
+  font-size: 0.9em;
+  /*margin: 0;*/
+}
+#infoleft img{
+    opacity: 0.2;
+    position: relative;
+    margin-bottom: 13%;
+}
+/* end of side bar on the left*/
+
+/*start style side bar on the right*/
+#inforight {
+  width: 20%;
+  padding: 1em;
+  margin-top: 2%;
+  float: right;
+  margin-bottom: 10%;
+}
+/*stly li, a, h3, h4,img, p*/
+#inforight li{
+  display: block;
+  text-decoration: none;
+  padding: 1.7%;
+  padding-left: 18px;
+  background-color: #ffebcc;
+  border-bottom: solid 1px #ffb84d;
+  border-right: solid 1px #ffb84d;
+  color:#b35900;
+  font-size: 0.8em;
+}
+#inforight a{
+  text-decoration: none;
+}
+#inforight h3 { 
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 0.3em;
+}
+.pstyle{
+  margin-bottom: -5px;
+}
+#inforight h4{
+  text-align: center;
+  font-size: 0.9em;
+  margin: 0;
+}
+#inforight img{
+    opacity: 0.2;
+    position: relative;
+    margin-bottom: 13%;
+}
+/* end of side bar on the right*/
+
+/*stly te order div on the main content*/
+#order {
+  text-indent: 2%;
+  line-height: 1.5em;
+}
+#order h1{
+  text-align: center;
+}
+#order h2{
+  text-align: center;
+}
+#order img{
+  float: center;
+}
+/*end or rder style*/
+
+/*style the contact form*/
+#contactform {
+  margin-left: 30%;
+  margin-right: 30%
+  text-align: center;
+}
+#contactform {
+  margin-left: 6%;
+}
+#contactform label{
+  margin-left: 50px;
+}
+
+/*p label {
+  display: inline-block;
+  margin-bottom: 0px;
+  text-align: left;
+}*/
+.form_details input[type="text"], .form_details textarea {
+  display: inline-block;
+  /*vertical-align: middle;*/
+  padding: 8px;
+  margin-right: 20%;
+  width: 70%;
+  font-size: 1em;
+  margin: 2px 2px;/*this alligns text labels цер boxes on the same level*/
+  border: 1px solid #ccc;
+  color: #8A8888;
+  background: none;
+  -webkit-appearance: none;
+  float: right;
+  outline: none;
+  /*margin-right: -140px;*/
+}
+.btn {
+  font-size: 14px;
+  float: right;
+  margin: 30px 0;
+  padding: 10px 20px;
+  background-color: #dd4a49;
+  color: #fff;
+  border: 0;
+  text-transform: uppercase;
+}
+/*end style the contact form*/
+
+/*stlye back to top link*/
+.backtotop{
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: 50px;
+}
+/*start stlye footer*/
+footer {
+  margin-top: 1em;
+  border-top: solid thin black;
+  clear: both;
+  font-size: 1em;
+  text-align: center;
+}
+footer li { 
+  display: inline;
+  list-style-type: none; 
+  padding-right: 80px;
+}
+footer img{ 
+  width: 96%;
+  box-shadow: 10px 10px 3px 0 #888888;  
+  border-radius: 27px;
+}
+/*end footer*/
+/*stlye the copyright statement on the bottom of each page*/
+.copy
+{
+  padding-top: 0.6em;
+  text-align: center;
+  font-size: 0.8em;
+}
+/*additional style s for all images on all pages*/
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+img.vertical {
+  vertical-align: middle;
+}
+/*style the section header id*/
+#section_header {
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+/*style h4*/
+h4{
+  text-align: center;
+  margin: 0;
+}
+
+/*start style links*/
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #990000;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+/*end style links*/
+
+ /*start styling columns */
+/*.col {
+    float: right;
+}
+.row {
+    /*width: 100%;
+}
+.half {
+    width: 50%;
+}
+.third {
+    width: 33.33%;
+}*/
+ /*end styling columns *//*
+#columns{
+  text-align: center;
+}
+
+#col1,#col2
+{
+  float: left;
+  background-color: #eee;
+  margin-bottom: 1em;
+  margin-left: 3%;
+}
+#col1 {
+    width:20%;
+}
+}
+#col2 {
+    width:20%;
+}
+footer {
+    clear:both;
+}*/
+/*style col clases that used 
+to display img and ext under them*/
+.col1,.col2,.col3
+{
+  float: left;
+  margin-bottom: 1%;
+  margin-left: 0.3%;
+  padding-right: 0.3%;
+  margin-top: 1.5%;
+}
+/*set width*/
+.col1 { 
+	width: 15%; 
+}
+.col2 { 
+	width: 15%; 
+}
+.col3 { 
+	width: 15%; 
+}
+/*style the p for col*/
+.col1 p,.col2 p,.col3 p
+{
+  width: 85%;
+  text-align: left;
+  padding-left:0px;
+  font-size: 0.9em;
+  line-height: 1em;
+}
+
+.col1,.col2,.col3
+{
+  text-align: center;
+  font-size: 0.9em;
+  line-height: 1em;
+}
+/*style unvisited links*/
+.col1 a:link,.col2 a:link,.col3 a:link { 
+  text-decoration: none;
+  display: block;
+}
+/*stly visited links*/
+.col1 a:visited,.col2 a:visited,.col3 a:visited {
+    color: black;
+}
+/*style mouse over links*/
+.col1 a:hover,.col2 a:hover,.col3 a:hover {
+  color: #990000;
+}
+
+/*stlye the thumb div*/
+div.thumb {
+	margin: 3px;
+	height: auto;
+	text-align: center;
+}
+/*stlye images of thumb class*/
+.thumb img{
+	display: inline-block;
+}
+/*stlye mouse over img*/
+.thumb a:hover img {
+  border: 1px solid black;
+}
+/*stlye photo cat title*/
+.photocattitle {
+  text-align: center; font-weight: bold;
+}
+/*stlye phototitile*/
+.phototitle {
+	text-align: center;
+	font-weight: normal;
+	width: 120px;
+	margin: 0 3px 3px 3px;
+} 
+
+/*start galery style*/
+img .photos  {
+    vertical-align: center;
+    display: inline;
+    border: 0;
+}
+
+/*style th separsate pages*/
+.countriesdata p{
+  position: relative;
+  text-indent: 3%;
+  margin-left: 22%;
+  margin-right: 22%;
+}
+/*style the destination page*/
+.imagewithcaption{
+  font-size: 0.8em;
+  display: block;
+
+}
+/*STYLE imagewithcaption class*/
+.imagewithcaption td{
+  margin-right: 2%;
+  margin-left: 2%;
+}
+/*unvisited*/
+.imagewithcaption a:link { 
+  text-decoration: none;
+
+}
+/*visited*/
+.imagewithcaption a:visited {
+    color: black;
+}
+/* mouse over link*/
+.imagewithcaption a:hover {
+  color: #990000;
+}
+.imagewithcaption span{
+ font-weight: bold;
+}
+
+/* style image on the map page*/
+.mapimg img{
+ /* text-align: center;*/
+  /*text-align: center;*/
+  /*margin-right:0px;*/
+}
+/*index page has a read more opt when user clicks
+it redirects hom to a full page with that text*/
+.readmore a:link{
+  font-size: 0.8em;
+  font-weight: bold;
+  color:#990000;
+}
+table {
+  border: thin;
+  line-height: 2em;
+  margin-left:28%;
+}
+/*style iframe*/
+#iframe p{
+  margin-top:5%;
+ text-align: center;
+}
+/*style the contact us page*/
+.contactusinfo p, h3{
+  text-align: center;
+}
+.contactusinfo h3{
+  text-decoration: underline;
+}
